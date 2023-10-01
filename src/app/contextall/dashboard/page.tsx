@@ -1,9 +1,9 @@
 'use client';
 import React from "react";
-import Heading from "../components/Heading";
-import Input from "../components/Input";
-import Display from "../components/Display";
-import Addbutton from "../components/Addbutton";
+import Heading from "../../components/Heading";
+import Input from "../../components/Input";
+import Display from "../../components/Display";
+import Addbutton from "../../components/Addbutton";
 
 
 
